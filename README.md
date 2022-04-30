@@ -12,7 +12,9 @@
 ```
 ---
 
-Hello, world! I am a computer scientist still early in my career and since I graduated from college in 2018 I have been on a breadth first search to find where I want to dedicate my working hours to. During my exploration I have found the positive energy I feel during work is directly correlated with how well the organization’s philosophy and motivations are aligned with my own. So I've been using that feeling to guide me.
+### Hello, world! 
+
+I am a computer scientist still early in my career and since I graduated from college in 2018 I have been on a breadth first search to find where I want to dedicate my working hours to. During my exploration I have found the positive energy I feel during work is directly correlated with how well the organization’s philosophy and motivations are aligned with my own. So I've been using that feeling to guide me.
 
 --
 
