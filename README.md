@@ -28,8 +28,7 @@ I'm looking to contribute to the space in a way that is aligned with both my goa
 
 ### Let's link up
 
-  - email: sbvegan@proton.me
-  - twitter: @soyboy_vegan
+  - email: sbvegan@protonmail.com
   - discord: soyboy#2228
 
 <!---
