@@ -30,8 +30,4 @@ I'm looking to contribute to the space in a way that is aligned with both my goa
 
   - email: sbvegan@protonmail.com
   - discord: soyboy#2228
-
-<!---
-sbvegan/sbvegan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  - writing: https://sbvegan.org/
