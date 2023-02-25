@@ -14,15 +14,7 @@
 
 ### Hello, world! 
 
-I am a computer scientist still early in my career and since I graduated from college in 2018 I have been on a breadth first search to find where I want to dedicate my working hours to. During my exploration I have found the positive energy I feel during work is directly correlated with how well the organization’s philosophy and motivations are aligned with my own. So I've been using that feeling to guide me.
-
---
-
-Another thing I noticed is that the thing that has stuck with me from the end of college to the present is my facination with crypto economies. From Bitcoin fundamentals to being captured by Ethereum, DeFi, NFTs, a multi-chain world, layer 2 scaling, MEV, and more; I've come to realize this is the space where I want to build. Hopefully that's why you've found me here.
-
---
-
-I'm looking to contribute to the space in a way that is aligned with both my goals and way to benefit the greater crypto ecosystem.
+I'm soyboy, a senior solutions engineer, with a background as a full-stack dev, and a B.S. with a major in computer science. I'm facinated by crypto-economies and how they're unlocking different ways for humans to coordinate. My goal is to use my Ethereum engineering skills to become self sustainable by providing Ethereum public (and private) services. 
 
 ---
 
