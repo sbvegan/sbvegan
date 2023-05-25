@@ -22,4 +22,3 @@ I'm soyboy, a senior solutions engineer, with a background as a full-stack dev, 
 
   - email: sbvegan@protonmail.com
   - discord: soyboy#2228
-  - writing: https://sbvegan.org/
